@@ -1,0 +1,27 @@
+.encabezado { background-color: #007bff; color: white; padding: 5px; display: flex; justify-content: space-between; align-items: center; gap: 20px;  }
+.encabezado h2 { font-size: 18px}
+.social {display: flex; gap: 15px; }
+.social a{ text-decoration: none; color: white; font-size: 24px }
+.social a:hover{ color: #007bff;  }
+nav{ margin-left:10px; margin-top: 5px; padding:1px; color:#000; text-transform: uppercase;}
+nav a { padding-left: 20px; text-decoration: none; }
+nav a:hover {background: blue; margin: 10px; padding: 1px; border-radius: 5px; color: white; }
+footer { background-color: #007bff; color: white; padding: 5px; display: flex; justify-content: space-between; align-items: center; gap: 20px;  }
+.buscador{ background-color: white; text-align: right; border-radius: 5px; box-shadow: 0 2px 5px rgb(0,0,0,0.2); } 
+.buscador h2{ font-size: 25px; margin-bottom: 20px; text-align: right; margin-right: 30%; }
+input[type="text"]{ width: 50%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 10px; }
+.contenedor{ padding: 180px; margin: 0; }
+.filter { padding: 10px; margin: auto; }
+.filtro-categoria { padding: 10px; font-size: 18px; }
+.filtro-marca { padding: 10px; font-size: 16px; }
+form{ text-align: left;}
+form label{ color: black; font-size: 18px; }
+form option { font-size: 16px; }
+.row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+h1{ text-align: center; }
+img{ width: 70%; display: block; margin: 0 auto; }
+.card { border: 1px solid #ccc; padding: 20px; text-align: center; border-radius: 5px; }
+.card-body h2{ text-align: center; font-size: 20px; }
+.card-body p { margin-bottom: 15px; }
+.card-body a{ color: white; text-decoration: none; }
+.card-body .btn { display: inline-block; text-align: center; background-color: red; color: white; border-radius: 25px; cursor: pointer; padding: 10px 20px; font-size: 16px; }
