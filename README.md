@@ -1,20 +1,20 @@
-<h1 align="left">Hello 👋 , how are you?</h1>
+<h1 align="left">Hola, un gusto Saludarte</h1>
 
 ###
 
-<p align="left">My name is Alberto and I'm a developer from software and aplications web</p>
+<p align="left">Soy Alberto Casco, Analista de Sistemas, desarrollador de software fullStak con experiencia en sistemas ERP</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre este proyecto</h2>
 
 ###
 
-<p align="left">✨ I like to solve situations or errors in software development<br>📚 I am currently learning new technologies and development tools that make a programmer's life easier and faster.<br>🎯 Goals: To continue developing professionally, acquire new skills and excel in the profession<br>🎲 Fun Fact: Life of a Programmer</p>
+<p align="left">✨ Aplicación web básico intuitivo. responsive, traducido y escalable <br>📚 Pagina web <br>🎯 Su funcionalidad es exponer productos e información sobre el rubro de l<br>🎲 Este producto fue diseñado a corde a especificaciones del interesado, con un prototipo de pagina web existente</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Herramientas de desarrollo</h2>
 
 ###
 
